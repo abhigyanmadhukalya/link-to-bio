@@ -5,5 +5,5 @@ This is a webpage project that I undertook using [Takuya Mastsuyama's video](htt
 
 ## The page is made using
 - HTML
-- JavaScript (for bird animation taken from [VantaJS](vantajs.com)
+- JavaScript (for bird animation taken from [VantaJS](vantajs.com))
 - CSS
